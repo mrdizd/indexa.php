@@ -1,0 +1,2 @@
+# indexa.php
+aaada
